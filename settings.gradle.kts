@@ -1,2 +1,2 @@
-rootProject.name = 'Hanoi_BE'
+rootProject.name = "Hanoi_BE"
 
