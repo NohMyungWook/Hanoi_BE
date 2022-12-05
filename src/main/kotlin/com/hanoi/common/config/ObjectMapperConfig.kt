@@ -1,4 +1,4 @@
-package com.config
+package com.hanoi.common.config
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.springframework.context.annotation.Bean
